@@ -3,7 +3,7 @@
 <h4 align="center">Estou cursando Análise e Desenvolvimento de Sistemas, amo resolver problemas, gosto de aprender e estou disponível para novas experi
 ências</h4>
 </div>
-- 🌐 Aqui vc encontra alguns dos meus projetos e as linguagens que mais utilizo no meu dia a dia.
+- 🌐 Aqui vc encontra alguns dos meus projetos.
 
 ---
 
