@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Olá, meu nome é {Welisson Cunha}!
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Olá, meu nome é Welisson Cunha!
 
 Estou cursando Analise e desenvolvimento de sistema e estou em busca da minha primeira oportunidade na área de desenvolvimento mais 
 voltada para área de backend, busco me tornar um especialista em java e depois virar um fullstack. E estou no caminho certo sempre buscando,
