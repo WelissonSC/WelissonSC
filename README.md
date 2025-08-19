@@ -4,10 +4,10 @@ Estou cursando Analise e desenvolvimento de sistema e estou em busca da minha pr
 voltada para área de backend, busco me tornar um especialista em java e depois virar um fullstack. E estou no caminho certo sempre buscando,
 aprendendo, construindo projetos e aqui no meu github você vai encontrar alguns deles
 
-🔭 O ultimo projeto que fiz foi um sistema de biblioteca, e o projeto ao qual mais estou focado é o meu portifólio, pois sei que ele é bem importânte 
+🔭 Estou cursando a formação da Alura+Oracle no programa ONE, onde estou focado em me tornar um dev back end com Java
 
 
-💬 Se caso queira me conhecer mais, ou entrar em contato comigo será um prazer te receber em minhas redes sociais
+💬 Caso queira me conhecer mais, ou entrar em contato comigo será um prazer te receber em minhas redes sociais
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/welissoncunha/)](https://www.linkedin.com/in/welissoncunha/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=welissonsilvacunha@gmail.com)](mailto:welissonsilvacunha@gmail.com)
