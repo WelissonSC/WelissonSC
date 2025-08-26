@@ -9,7 +9,7 @@ aprendendo, construindo projetos e aqui no meu github você vai encontrar alguns
 
 💬 Caso queira me conhecer mais, ou entrar em contato comigo será um prazer te receber em minhas redes sociais
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/welissoncunha/)](www.linkedin.com/in/welisson-silva-cunha-)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/welissoncunha/)](https://www.linkedin.com/in/welisson-silva-cunha-/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=welissonsilvacunha@gmail.com)](mailto:welissonsilvacunha@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/WelissonSC?label=follow&style=social)]([welissonsilvacunha@gmail.com](https://github.com/WelissonSC))
 [![Instagram](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/welisson_s_cunha/)](https://www.instagram.com/welisson_s_cunha/)
